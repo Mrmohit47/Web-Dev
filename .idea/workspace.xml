@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6b12b82-c09c-4d20-a89c-bca20a64d641" name="Changes" comment="web dev">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regisration form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/A1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/A2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/A3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/A4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/A5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/A6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/A7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/AF.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/AF1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/AF2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/AF3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/Asyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/amazon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/Asyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/amazon/Asyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/amazon.html" beforeDir="false" afterPath="$PROJECT_DIR$/amazon/amazon.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,29 +41,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.amazon.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "E:/web development",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.amazon.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/web development&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="amazon.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web development/amazon/amazon.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -112,7 +97,9 @@
       <workItem from="1776923883085" duration="1949000" />
       <workItem from="1776944128983" duration="4077000" />
       <workItem from="1777000155186" duration="5799000" />
-      <workItem from="1777009571568" duration="1695000" />
+      <workItem from="1777009571568" duration="2881000" />
+      <workItem from="1777012650517" duration="1128000" />
+      <workItem from="1777023789215" duration="5166000" />
     </task>
     <servers />
   </component>
