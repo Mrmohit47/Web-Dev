@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b12b82-c09c-4d20-a89c-bca20a64d641" name="Changes" comment="web dev">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazon/Asyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/amazon/Asyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazon/amazon.html" beforeDir="false" afterPath="$PROJECT_DIR$/amazon/amazon.html" afterDir="false" />
-    </list>
+    <list default="true" id="d6b12b82-c09c-4d20-a89c-bca20a64d641" name="Changes" comment="web dev" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +96,8 @@
       <workItem from="1777009571568" duration="2881000" />
       <workItem from="1777012650517" duration="1128000" />
       <workItem from="1777023789215" duration="5166000" />
+      <workItem from="1777030073512" duration="174000" />
+      <workItem from="1777815390603" duration="8983000" />
     </task>
     <servers />
   </component>
